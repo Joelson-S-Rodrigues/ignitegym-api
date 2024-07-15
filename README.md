@@ -9,5 +9,3 @@
 |                    `npm run seed` | Populate database tables                   |
 
 
-### API Docs
-To view the API documentation, run the API and access [http://localhost:3333/api-docs](http://localhost:3333/api-docs) in your browser
